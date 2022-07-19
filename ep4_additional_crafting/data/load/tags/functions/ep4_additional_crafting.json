@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "#load:gm4_machines", "required": false },
+    "ep4_additional_crafting:load"
+  ]
+}

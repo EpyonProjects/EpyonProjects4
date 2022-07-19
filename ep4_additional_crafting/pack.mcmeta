@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "pack_format": 10,
+    "description": [
+      "Additional Crafting",
+      "\n",
+      {
+        "text": "EpyonProjects for 1.19",
+        "color": "#4AA0C7"
+      }
+    ]
+  },
+  "module_name": "Additional Crafting",
+  "module_id": "additional_crafting",
+  "libraries": [
+    "lib_machines",
+    "lib_forceload"
+  ]
+}
